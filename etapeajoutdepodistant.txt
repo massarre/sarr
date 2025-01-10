@@ -1,0 +1,7 @@
+Etape 1 : créer un depot sur github
+etape 2 : copier le lien du dépot distant
+etapge un dossier
+etape 4 : se déplacer dans le dossier crée et le coller sur tes lignes commanes locales : 
+coomande  -> git remote add origin https://github.com/votre-utilisateur/votre-depot.git
+etapge 5 : git add ; dit commit ; git push -u origin master ou main
+
